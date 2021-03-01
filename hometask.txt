@@ -3,3 +3,17 @@
 " with nice buttons on his jacket (buttons branch)")
 Также отличаются ветки, а именно порядок их подключения.
 
+11 коммитов:
+init
+heat added
+boots
+README added
+dots
+fix readme
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+Merge remote-tracking branch 'origin/boots' into boots_buttons
+Merge remote-tracking branch 'origin/hat'
+2
+2 (два подряд, потому что гит тормозил)
+
++ 12-ый коммит, в который добавится этот файл
